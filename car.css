@@ -1,0 +1,133 @@
+.stylinglogo{
+	height: 80px;
+	width: 150px;
+	padding: 5px;
+}
+#go {
+	color: black;
+	padding:5px;
+	font-family: 'roboto';
+	font-weight: bold;
+	border: none;
+	background-color: white;
+}
+#go:hover {
+    color:red;
+    border: none;
+    background-color: white;
+}
+#sath {
+	color: white;
+	padding:5px;
+	font-family: 'roboto';
+	font-weight: bold;
+	border: none;
+	background-color: red;
+	border-radius: 7px;
+}
+#sath:hover {
+    color:black;
+    border: none;
+    background-color: red;
+}
+.bgimg{
+	background-image: url('https://res.cloudinary.com/dxujeg5en/image/upload/v1669302394/modified-mazda-4k-4t_rfmpjx.jpg');
+	background-size: cover;
+	height: 90vh;
+	width:1550px;
+	padding: 0px;
+}
+.lay{
+	background-color:none;
+	color: white;
+	font-family: 'roboto';
+	padding-top: 450px;
+}
+.bgimg2{
+	background-color: #e9ebe6;
+	background-size: cover;
+	width: 1550px;
+	padding-top: 100px;
+	padding-bottom: 40px;
+}
+.layout{
+	background-color: white;
+	width: 150px;
+	height: 150px;
+	padding: 5px;
+	margin: 10px;
+	border-radius: 15px;
+	text-align: center;
+}
+.carding{
+	text-align: center;
+	background-color: white;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #e5eaf4;
+	border-radius: 16px;
+	margin-top: 10px;
+}
+.head{
+	color: #323f4b;
+	font-family: Arial,Helvetica,sans-serif;
+	font-size:16px;
+	font-weight: bold;
+}
+.para{
+	color: #7b8794;
+	font-family: Arial,Helvetica,sans-serif;
+	font-size:16px;
+	font-weight: bold;
+}
+.offers{
+	color: #323f4b;
+	font-style: italic;
+	font-weight: 600;
+}
+.bgimg3{
+	background-color:#f7f8fa ;
+	background-size: cover;
+	width: 1550px;
+	padding-top: 90px;
+	padding-bottom: 40px;
+}
+.explorelink{
+	color: #c90202;
+	font-family: Arial,Helvetica,sans-serif;
+	font-size:14px;
+	font-weight: bold;
+}
+.paybgimg{
+	background-color: white;
+}
+.head1{
+	color-profile: #183b56;
+	font-family: Arial,Helvetica,sans-serif;
+	font-size:28px;
+	font-weight: 700;
+}
+.cstbutton{
+	color: white;
+	background-color:#c90202;
+	width: 130px;
+	height: 45px;
+	border-width: 0;
+	border-radius: 8px;
+	margin-right: 10px;
+}
+.paycarding{
+	width: 50px;
+	height: 50px;
+	margin-right: 28px;
+}
+.paymenting{
+	width: 400px;
+}
+.bgimg4{
+	background-color:grey;
+	background-size: cover;
+	width: 1550px;
+	padding-top: 90px;
+	padding-bottom: 40px;
+}
